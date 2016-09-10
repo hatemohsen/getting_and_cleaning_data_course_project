@@ -1,13 +1,13 @@
-## Code Book for tidy.txt
+# Code Book for tidy.txt
 
-# Identifiers
+## Identifiers
 
 subject - The ID of the test subject
 
 activity - The type of activity performed when the corresponding measurements were taken
 
 
-# Measurements
+## Measurements
 
 
 tBodyAccMeanX
@@ -169,7 +169,7 @@ fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
 
-# Activity Labels
+## Activity Labels
 
 
 WALKING: subject walking during test
